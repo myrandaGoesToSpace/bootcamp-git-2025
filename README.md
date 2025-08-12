@@ -5,9 +5,9 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 (see instructions)
 
-**Name:** Myranda Shirk
+**Name:** Myranda Shirk, Umang Chaudhry      
 
-**Hobbies:**
+**Hobbies:** Rollerblade, PC Gaming
 
 ## Section 1: Your First Commit
 
